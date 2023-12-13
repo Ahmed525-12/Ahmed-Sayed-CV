@@ -364,14 +364,14 @@ content: '';
 .html-section{
     width: 100%;
     background-color: rgba(238, 238, 238, 0.514);
-    height: 5px;
+    height: 5px !important;
     border-radius: 25px;
     position: relative;
 }
 .html-color{
     width: 100%;
     background-color: #db6d13;
-    height: 5px;
+    height: 5px !important;
     border-radius: 25px;
     position: absolute;
     animation-name:width;
@@ -382,35 +382,35 @@ content: '';
 .css-color{
     width: 100%;
     background-color: #db6d13;
-    height: 5px;
+    height: 5px !important;
     border-radius: 25px;   
     position: absolute;
 }
 .js-color{
     width: 100%;
     background-color: #db6d13;
-    height: 5px;
+    height: 5px !important;
     border-radius: 25px;   
     position: absolute;
 }
 .jq-color{
     width: 100%;
     background-color: #db6d13;
-    height: 5px;
+    height: 5px !important; 
     border-radius: 25px;
     position: absolute;   
 }
 .an-color{
     width: 100%;
     background-color: #db6d13;
-    height: 5px;
+    height: 5px !important;
     border-radius: 25px;  
     position: absolute; 
 }
 .bs-color{
     width: 100%;
     background-color: #db6d13;
-    height: 5px;
+    height: 5px !important;
     border-radius: 25px;  
     position: absolute; 
 }
