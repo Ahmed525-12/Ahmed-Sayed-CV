@@ -364,14 +364,14 @@ content: '';
 .html-section{
     width: 100%;
     background-color: rgba(238, 238, 238, 0.514);
-    height: 10px;
+    height: 5px;
     border-radius: 25px;
     position: relative;
 }
 .html-color{
-    width: 98%;
+    width: 100%;
     background-color: #db6d13;
-    height: 10px;
+    height: 5px;
     border-radius: 25px;
     position: absolute;
     animation-name:width;
@@ -380,37 +380,37 @@ content: '';
     animation-delay: 0.5s;
 }
 .css-color{
-    width: 90%;
+    width: 100%;
     background-color: #db6d13;
-    height: 10px;
+    height: 5px;
     border-radius: 25px;   
     position: absolute;
 }
 .js-color{
-    width: 85%;
+    width: 100%;
     background-color: #db6d13;
-    height: 10px;
+    height: 5px;
     border-radius: 25px;   
     position: absolute;
 }
 .jq-color{
-    width: 92%;
+    width: 100%;
     background-color: #db6d13;
-    height: 10px;
+    height: 5px;
     border-radius: 25px;
     position: absolute;   
 }
 .an-color{
-    width: 83%;
+    width: 100%;
     background-color: #db6d13;
-    height: 10px;
+    height: 5px;
     border-radius: 25px;  
     position: absolute; 
 }
 .bs-color{
-    width: 97%;
+    width: 100%;
     background-color: #db6d13;
-    height: 10px;
+    height: 5px;
     border-radius: 25px;  
     position: absolute; 
 }
@@ -424,7 +424,11 @@ content: '';
       
     }   
 }
+.img-logo{
+  max-width: 10%;
+  height: auto;
 
+}
     
 /* 
 ---------------------------------------------------------------------------------------------------------------------------

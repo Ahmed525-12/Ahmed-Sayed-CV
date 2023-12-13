@@ -11,7 +11,7 @@ $(window).scroll(function () {
 
 
 var typed = new Typed('.element', {
-    strings: ['','AHMED SAYED','WEB DEVELOPER','FRONT-END',],
+    strings: ['','AHMED SAYED','.NET DEVELOPER'],
     smartBackspace: true ,
     typeSpeed: 100,
     loop:true,
